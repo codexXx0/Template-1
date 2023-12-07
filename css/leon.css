@@ -588,8 +588,7 @@ body {
     background-color: rgba(211, 211, 211, 0);
     flex-wrap: wrap;
     justify-content: flex-end;
-    alien-content: space-around; 
-    
+    align-content: space-around;
 }
 
 .header .menu:hover .span span:nth-child(2){
