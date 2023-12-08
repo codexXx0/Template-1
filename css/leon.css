@@ -625,11 +625,9 @@ body {
 }
 
 .landing img {
-    margin: auto;
-    width: 190vb ;
+    width: 200vb ;
     background-size: cover;
     height: calc(100vb - 50px);
-    z-index: 0;
 }
 
 .landtext {
